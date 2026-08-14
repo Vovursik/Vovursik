@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center"></h1>
 
+<div align="center">
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vovursik-dubz.itch.io)
+
+</div>
 <!--
 **Vovursik/Vovursik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
