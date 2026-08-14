@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" href="https://vovursik-dubz.itch.io" />
+  <a href="https://vovursik-dubz.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+  </a>
 </p>
 
 #
