@@ -1,14 +1,13 @@
 <h1 align="center">Vovursik</h1>
+<p align="center">
+  <i>Links</i>
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" href="https://vovursik-dubz.itch.io" />
+</p>
 
-<div align="center">
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vovursik-dubz.itch.io)
-
-</div>
-
-###
+#
 
 <table align="center" border="0">
   <tr>
