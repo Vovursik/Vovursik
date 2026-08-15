@@ -3,11 +3,11 @@
   <i>Links</i>
 </p>
 
-<p align="center">
-  <a href="https://vovursik-dubz.itch.io">
-    <img src="https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
-  </a>
-</p>
+<div align="center">
+  
+[![Itch.io](https://img.shields.io/badge/Itch.io-fa5b5b?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vovursik-dubz.itch.io)&nbsp;&nbsp;&nbsp;[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/vovursik_dubz)
+
+</div>
 
 #
 
